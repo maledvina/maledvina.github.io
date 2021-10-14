@@ -5,7 +5,7 @@ A Creative Technology and Design graduate student at University of Colorado - Bo
 ### My Interests
 
 ```markdown
-
+```
 
 **Creative Coding**
 [Link](https://editor.p5js.org/maledvina/full/esRf0dWqg) 
@@ -21,7 +21,7 @@ A Creative Technology and Design graduate student at University of Colorado - Bo
 **Bold** and _Italic_ and `Code` text
 
 and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
