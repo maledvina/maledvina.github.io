@@ -7,7 +7,8 @@ A Creative Technology and Design graduate student at University of Colorado - Bo
 ```markdown
 
 
-# Creative Coding 
+**Creative Coding**
+[Link](https://editor.p5js.org/maledvina/full/esRf0dWqg) 
 ## Humane Technology
 ### Interactive Learning Environments
 
@@ -19,7 +20,7 @@ A Creative Technology and Design graduate student at University of Colorado - Bo
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
