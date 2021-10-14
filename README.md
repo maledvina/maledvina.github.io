@@ -1,18 +1,15 @@
-## Welcome to GitHub Pages
+## Maya Ledvina
 
-Maya Ledvina
-Eau Claire, Wisconsin // Boulder, Colorado
+A Creative Technology and Design graduate student at University of Colorado - Boulder with a B.S. in Computer Science - Software Engineering from University of Wisconsin - Eau Claire.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My Interests
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
+# Creative Coding 
+## Humane Technology
+### Interactive Learning Environments
 
 - Bulleted
 - List
