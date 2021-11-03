@@ -1329,13 +1329,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body {
-		
-		background-repeat: repeat, no-repeat;
-		background-size: auto, 100% 100%;
-		background-attachment: fixed;
-		overflow-y: scroll;
-	}
+	
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
