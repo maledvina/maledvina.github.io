@@ -2,34 +2,3 @@
 
 A Creative Technology and Design graduate student at University of Colorado - Boulder with a B.S. in Computer Science - Software Engineering from University of Wisconsin - Eau Claire.
 
-### My Interests
-
-```markdown
-```
-
-**Creative Coding**
-[Link](https://editor.p5js.org/maledvina/full/esRf0dWqg) 
-https://editor.p5js.org/maledvina/sketches/Dvc4mwMY_
-## Humane Technology
-### Interactive Learning Environments
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maledvina/maledvina.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
